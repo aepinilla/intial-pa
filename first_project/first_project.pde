@@ -1,6 +1,4 @@
 void setup() {
-  println("Hola");
-  
   /////
-  
+  println("Hola");  
 }
